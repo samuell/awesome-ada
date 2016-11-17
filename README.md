@@ -13,7 +13,7 @@ Lists are sorted by awesomeness - Awesomest first!
 ## Community
 
 - [Google Group (comp.lang.ada)](https://groups.google.com/forum/#!forum/comp.lang.ada) - 1209 members!
-- [Ada Programming Google+ Community](https://plus.google.com/communities/102688015980369378804) - 714 members!
+- [Google+ Community](https://plus.google.com/communities/102688015980369378804) - 714 members!
 - [AdaCore (Company) on Github](https://github.com/AdaCore)
 - [Libre: AdaCore's Open Source Community Website](http://libre.adacore.com)
 
