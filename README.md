@@ -17,11 +17,10 @@ Lists are sorted by awesomeness - Awesomest first!
 - [AdaCore (Company) on Github](https://github.com/AdaCore)
 - [Libre: AdaCore's Open Source Community Website](http://libre.adacore.com)
 
-## Learning resources
+## Tutorials, Guides and Course material
 
 - [MIT Course (materials) on Ada 95](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming)
 - [Course material in Real-time embedded developmend with Ada](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - This material looks good.
-- [Ada Programming on Wikibooks](https://en.wikibooks.org/wiki/Ada_Programming) - A so so book, but included because of the lack of other good resources.
 
 ## Books
 
@@ -29,6 +28,10 @@ Lists are sorted by awesomeness - Awesomest first!
 - [Building High Integrity Applications with SPARK (An Ada subset)](http://a.co/hBHjt3K) - 5 stars, 3 reviews (SPARK = Ada subset)
 - [Building Parallel, Embedded, and Real-Time Applications with Ada](http://a.co/cmK3Cby) - 4,5 stars, 3 reviews
 - [Programming in Ada 2012 ](http://a.co/cVaNXQh) - 4 stars, 5 reviews
+
+## Free online books
+
+- [Ada Programming on Wikibooks](https://en.wikibooks.org/wiki/Ada_Programming) - A so so book, but included because of the lack of other good resources.
 
 ## Editors and IDEs
 
