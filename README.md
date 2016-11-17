@@ -17,8 +17,9 @@ Lists are sorted by awesomeness - Awesomest first!
 - [AdaCore (Company) on Github](https://github.com/AdaCore)
 - [Libre: AdaCore's Open Source Community Website](http://libre.adacore.com)
 
-## Guides and tutorials
+## Learning resources
 
+- [MIT Course (materials) on Ada 95](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming)
 - [Course material in Real-time embedded developmend with Ada](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - This material looks good.
 - [Ada Programming on Wikibooks](https://en.wikibooks.org/wiki/Ada_Programming) - A so so book, but included because of the lack of other good resources.
 
