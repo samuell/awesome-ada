@@ -17,10 +17,10 @@ Lists are sorted by awesomeness - Awesomest first!
 
 ## Books
 
-- [Concurrent and Real-Time Programming in Ada](http://a.co/0waqzSb)
-- [Building Parallel, Embedded, and Real-Time Applications with Ada](http://a.co/cmK3Cby)
-- [Building High Integrity Applications with SPARK (An Ada subset)](http://a.co/hBHjt3K)
-- [Programming in Ada 2012 ](http://a.co/cVaNXQh)
+- [Concurrent and Real-Time Programming in Ada](http://a.co/0waqzSb) - 5 stars, 6 reviews
+- [Building High Integrity Applications with SPARK (An Ada subset)](http://a.co/hBHjt3K) - 5 stars, 3 reviews (SPARK = Ada subset)
+- [Building Parallel, Embedded, and Real-Time Applications with Ada](http://a.co/cmK3Cby) - 4,5 stars, 3 reviews
+- [Programming in Ada 2012 ](http://a.co/cVaNXQh) - 4 stars, 5 reviews
 
 ## Editors and IDEs
 
