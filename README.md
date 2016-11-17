@@ -10,6 +10,12 @@ Lists are sorted by awesomeness - Awesomest first!
 - [Why aren't developers interested in Ada?](http://www.embedded.com/electronics-blogs/break-points/4008214/Why-aren-t-developers-inter) - Very interesting blog post highlighting benefits of Ada.
 - [Who is using Ada?](https://www.seas.gwu.edu/~mfeldman/ada-project-summary.html) - Great list, covering many industries.
 
+## Community
+
+- [comp.lang.ada on Google Groups](https://groups.google.com/forum/#!forum/comp.lang.ada)
+- [AdaCore (Company) on Github](https://github.com/AdaCore)
+- [Libre: AdaCore's Open Source Community Website](http://libre.adacore.com)
+
 ## Guides and tutorials
 
 - [Course material in Real-time embedded developmend with Ada](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - This material looks good.
