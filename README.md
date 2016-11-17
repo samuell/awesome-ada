@@ -1,5 +1,6 @@
 # Awesome Ada
-Awesome resources and other links related to the Ada programming language
+
+A curated list of awesome resources and other links related to the Ada programming language
 
 ## Why Ada - Sites and posts of promotional nature
 
@@ -34,6 +35,14 @@ Awesome resources and other links related to the Ada programming language
 
 - [AVR-Ada](http://playground.arduino.cc/Code/AVR-Ada) - Enables programming for Arduino, in Ada
 
-## Misc links
+## Various Ada resources and links to resources
 
+- [Ada Power](http://www.adapower.com/) - Site collecting links to Ada resources
 - [Open source software at AdaCore company](http://libre.adacore.com)
+
+## Local User Groups
+
+### Sweden
+
+- [Ada Sweden](http://www.ada-sweden.org)
+- [Swedish Defence Software Engineering User Group](http://sesam.smart-lab.se)
