@@ -1,11 +1,13 @@
 # Awesome Ada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources and other links related to the Ada programming language
+A curated list of awesome resources and other links related to the Ada programming language.
+
+Lists are sorted by awesomeness - Awesomest first!
 
 ## Why Ada - Sites and posts of promotional nature
 
-- [Why aren't developers interested in Ada?](http://www.embedded.com/electronics-blogs/break-points/4008214/Why-aren-t-developers-inter) - Very interesting blog post highlighting benefits of Ada.
 - [Ada 2012](http://www.ada2012.org/) - Promotional site for the latest Ada version, with video interviews etc.
+- [Why aren't developers interested in Ada?](http://www.embedded.com/electronics-blogs/break-points/4008214/Why-aren-t-developers-inter) - Very interesting blog post highlighting benefits of Ada.
 - [Who is using Ada?](https://www.seas.gwu.edu/~mfeldman/ada-project-summary.html) - Great list, covering many industries.
 
 ## Guides and tutorials
@@ -14,8 +16,6 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [Course material in Real-time embedded developmend with Ada](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html)
 
 ## Books
-
-(Highest rated on Amazon, first)
 
 - [Concurrent and Real-Time Programming in Ada](http://a.co/0waqzSb)
 - [Building Parallel, Embedded, and Real-Time Applications with Ada](http://a.co/cmK3Cby)
@@ -37,8 +37,8 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 ## Various Ada resources and links to resources
 
-- [Ada Power](http://www.adapower.com/) - Site collecting links to Ada resources
 - [Open source software at AdaCore company](http://libre.adacore.com)
+- [Ada Power](http://www.adapower.com/) - Site collecting links to Ada resources
 
 ## Local User Groups
 
