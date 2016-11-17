@@ -12,8 +12,8 @@ Lists are sorted by awesomeness - Awesomest first!
 
 ## Guides and tutorials
 
-- [Ada Programming on Wikibooks](https://en.wikibooks.org/wiki/Ada_Programming)
-- [Course material in Real-time embedded developmend with Ada](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html)
+- [Course material in Real-time embedded developmend with Ada](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - This material looks good.
+- [Ada Programming on Wikibooks](https://en.wikibooks.org/wiki/Ada_Programming) - A so so book, but included because of the lack of other good resources.
 
 ## Books
 
