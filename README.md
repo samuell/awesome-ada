@@ -20,8 +20,13 @@ Awesome resources and other links related to the Ada programming language
 - [Building High Integrity Applications with SPARK (An Ada subset)](http://a.co/hBHjt3K)
 - [Programming in Ada 2012 ](http://a.co/cVaNXQh)
 
-## Who is using
+## Libraries
 
+- [AVR-Ada](http://playground.arduino.cc/Code/AVR-Ada) - Enables programming for Arduino, in Ada
+
+## Promotional sites and material
+
+- [Ada 2012](http://www.ada2012.org/) - Promotional site for the latest Ada version, with video interviews etc.
 - [Who is using Ada?](https://www.seas.gwu.edu/~mfeldman/ada-project-summary.html) - Great list, covering many industries
 
 ## Websites with various resources
