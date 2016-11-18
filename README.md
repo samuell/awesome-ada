@@ -12,9 +12,9 @@ Lists are sorted by awesomeness - Awesomest first!
 
 ## Community
 
-- [Google Group (comp.lang.ada)](https://groups.google.com/forum/#!forum/comp.lang.ada) - 1200+ members
-- [Google+ Community](https://plus.google.com/communities/102688015980369378804) - 700+ members
-+ [LinkedIn Group](https://www.linkedin.com/groups/114211) - Not so easy to use b/c of LinkedIn, but 2500+ members
+- [Google Group (comp.lang.ada)](https://groups.google.com/forum/#!forum/comp.lang.ada) - 1200+ members. Best place for longer discussions.
+- [LinkedIn Group](https://www.linkedin.com/groups/114211) - Not so easy to use because of LinkedIn's UI, but 2500+ members.
+- [Google+ Community](https://plus.google.com/communities/102688015980369378804) - 700+ members. Focused on sharing links.
 - [AdaCore (Company) on Github](https://github.com/AdaCore)
 - [Libre: AdaCore's Open Source Community Website](http://libre.adacore.com)
 
