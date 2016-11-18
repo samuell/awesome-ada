@@ -20,7 +20,7 @@ Lists are sorted by awesomeness - Awesomest first!
 
 ## Tutorials, Guides and Course material
 
-- [Course material in Real-time embedded developmend with Ada, at ANU](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - This material looks good, and includes some videos.
+- [Course material in Real-time embedded developmend with Ada, at ANU](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - Includes a number of videos.
 - [MIT Course (materials) on Ada 95](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming)
 
 ## Books
