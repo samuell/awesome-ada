@@ -49,6 +49,11 @@ Lists are sorted by awesomeness - Awesomest first!
 ## Libraries
 
 - [AVR-Ada](http://playground.arduino.cc/Code/AVR-Ada) - Enables programming for Arduino, in Ada
+- [Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library) - Device drivers and embedded goodies for micro-controllers
+- [Generic Image Decoder](http://gen-img-dec.sourceforge.net/) - Ada package for decoding a broad variety of image formats
+- [Simple Components](http://www.dmitry-kazakov.de/ada/components.htm) - Inplementation of various algorythn, containers or protocols
+- [AZip](http://azip.sourceforge.net/) - A portable Zip Archive Manager
+- [Zip-Ada](http://unzip-ada.sourceforge.net/) -  library for dealing with the Zip compressed archive file format
 
 ## Various Ada resources and links to resources
 
