@@ -30,6 +30,7 @@ Lists are sorted by awesomeness - Awesomest first!
 
 - [Concurrent and Real-Time Programming in Ada](http://a.co/0waqzSb) - 5 stars, 6 reviews
 - [Building High Integrity Applications with SPARK (An Ada subset)](http://a.co/hBHjt3K) - 5 stars, 3 reviews (SPARK = Ada subset)
+- [Introductory Ada Programming Book: A Book for Beginner Programmers and Beginners to Ada](http://a.co/bD4n5wN) - 5 stars, 2 reviews
 - [Building Parallel, Embedded, and Real-Time Applications with Ada](http://a.co/cmK3Cby) - 4,5 stars, 3 reviews
 - [Programming in Ada 2012 ](http://a.co/cVaNXQh) - 4 stars, 5 reviews
 
