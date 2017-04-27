@@ -21,9 +21,9 @@ Lists are sorted by awesomeness - Awesomest first!
 
 ## Tutorials, Guides and Course material
 
-- [AdaCore University](http://university.adacore.com/) - Ada learning material by the company behind the commercial version of Ada
 - [Course material in Real-time embedded developmend with Ada, at ANU](https://cs.anu.edu.au/courses/comp4330/1-Lectures-Contents.html) - Includes a number of videos.
 - [MIT Course (materials) on Ada 95](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming)
+- [AdaCore University](http://university.adacore.com/) - Ada learning material by the company behind the commercial version of Ada
 
 ## Books
 
