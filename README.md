@@ -61,9 +61,24 @@ Lists are sorted by awesomeness - Awesomest first!
 - [Open source software at AdaCore company](http://libre.adacore.com)
 - [Ada Power](http://www.adapower.com/) - Site collecting links to Ada resources
 
-## Local User Groups
+## Ada associations
+
+- [ACM SIGAda](http://www.acm.org/sigada/) - The home page for the “Special Interest Group on Ada” with pointers to local chapters.
+- [Ada Resource Association](http://www.adaic.org/) - Articles on Ada applications, databases of available compilers, and more.
+- [Ada Europe](http://www.ada-europe.org/) - An international organization set up to promote the use of Ada with local charters in several European countries.
+- [Ada Deutschland](http://ada-deutschland.de/)
+- [Ada Belgium](http://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/)
+- [Ada France](http://www.ada-france.org/)
+- [Ada-Switzerland](http://www.ada-switzerland.ch/)
+- [Ada Denmark](http://ada-dk.org/)
+- [Ada Sweden](http://www.ada-sweden.org)
+
+## Country-specific links (apart from main associations)
+
+### Russia
+
+- [Ada in Russian](http://www.ada-ru.org/)
 
 ### Sweden
 
-- [Ada Sweden](http://www.ada-sweden.org)
 - [Swedish Defence Software Engineering User Group](http://sesam.smart-lab.se)
