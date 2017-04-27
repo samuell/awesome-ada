@@ -7,6 +7,7 @@ Lists are sorted by awesomeness - Awesomest first!
 ## Why Ada - Sites and posts of promotional nature
 
 - [Ada 2012](http://www.ada2012.org/) - Promotional site for the latest Ada version, with video interviews etc.
+- [SPARK 2014](http://www.spark-2014.org/) - Site for SPARK, a safe subset of Ada
 - [Why aren't developers interested in Ada?](http://www.embedded.com/electronics-blogs/break-points/4008214/Why-aren-t-developers-inter) - Very interesting blog post highlighting benefits of Ada.
 - [Who is using Ada?](https://www.seas.gwu.edu/~mfeldman/ada-project-summary.html) - Great list, covering many industries.
 
