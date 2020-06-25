@@ -4,6 +4,8 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 Lists are sorted by awesomeness - Awesomest first!
 
+# N.B: This list is no longer maintained. Probably check out this much more comprehensive list: [Awesome Ada](https://github.com/ohenley/awesome-ada)
+
 ## Why Ada - Sites and posts of promotional nature
 
 - [Ada 2012](http://www.ada2012.org/) - Promotional site for the latest Ada version, with video interviews etc.
